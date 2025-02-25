@@ -11,5 +11,4 @@ endpoints:
         - Project
         - Public
       context: /reading-list
-      port:8080
       schemaFilePath: openapi.yaml
